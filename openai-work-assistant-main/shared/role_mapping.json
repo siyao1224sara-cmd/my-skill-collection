@@ -1,0 +1,114 @@
+{
+  "any-role": {
+    "name": "Any Role",
+    "aliases": [
+      "general",
+      "universal",
+      "common",
+      "any",
+      "all"
+    ],
+    "description": "Universal prompts for any work role"
+  },
+  "sales": {
+    "name": "Sales",
+    "aliases": [
+      "sales",
+      "business development",
+      "bd",
+      "revenue",
+      "selling"
+    ],
+    "description": "Prompts for sales teams and business development"
+  },
+  "customer-success": {
+    "name": "Customer Success",
+    "aliases": [
+      "customer success",
+      "cs",
+      "client success",
+      "account management"
+    ],
+    "description": "Prompts for customer success and account management"
+  },
+  "product": {
+    "name": "Product",
+    "aliases": [
+      "product",
+      "product management",
+      "pm",
+      "product manager"
+    ],
+    "description": "Prompts for product management and strategy"
+  },
+  "engineers": {
+    "name": "Engineers",
+    "aliases": [
+      "engineering",
+      "engineer",
+      "developers",
+      "developer",
+      "dev",
+      "software",
+      "tech"
+    ],
+    "description": "Prompts for engineering and development teams"
+  },
+  "hr": {
+    "name": "HR",
+    "aliases": [
+      "hr",
+      "human resources",
+      "people",
+      "talent",
+      "recruiting",
+      "hiring"
+    ],
+    "description": "Prompts for HR and people operations"
+  },
+  "it": {
+    "name": "IT",
+    "aliases": [
+      "it",
+      "information technology",
+      "tech support",
+      "infrastructure",
+      "operations"
+    ],
+    "description": "Prompts for IT teams and infrastructure"
+  },
+  "managers": {
+    "name": "Managers",
+    "aliases": [
+      "manager",
+      "management",
+      "team lead",
+      "leader",
+      "supervisor"
+    ],
+    "description": "Prompts for team managers and leaders"
+  },
+  "executives": {
+    "name": "Executives",
+    "aliases": [
+      "executive",
+      "exec",
+      "leadership",
+      "c-level",
+      "ceo",
+      "cto",
+      "cfo"
+    ],
+    "description": "Prompts for executives and senior leadership"
+  },
+  "government-it-staff": {
+    "name": "Government IT Staff",
+    "aliases": [
+      "government",
+      "gov",
+      "public sector",
+      "civil service"
+    ],
+    "description": "Prompts for government IT staff"
+  }
+}
